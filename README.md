@@ -119,7 +119,6 @@ Connectez-vous à la Raspberry Pi du robot depuis un terminal sur votre PC :
 ```bash
 ssh freenove@192.168.1.112
 ```
-**Mot de passe** : Rob4student
 
 #### 3. Exécution des nœuds
 
